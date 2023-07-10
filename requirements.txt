@@ -1,3 +1,4 @@
 gradio
 requests
 python-dotenv
+prodiapy
