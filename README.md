@@ -1,13 +1,15 @@
 # prodia-webui
 prodia-webui for using Prodia Stable DIffusion API with 24+ models, img2img and more...
 
-# Requirements
+# Requirements & Installation
 
 1. Prodia API key: go to https://docs.prodia.com/reference/getting-started-guide and get your free API key
 
-2. Place your API key in .env.example and rename it to .env
+2. Clone repo: `git clone https://github.com/zenafey/prodia-webui`
 
-3. run `pip install -r requirements.txt` to install all needed packages
+3. Place your API key in .env.example and rename it to .env
+
+4. run `pip install -r requirements.txt` to install all needed packages
 
 # Running
 
