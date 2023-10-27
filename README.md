@@ -1,5 +1,5 @@
 # prodia-webui
-prodia-webui for using Prodia Stable DIffusion API with 24+ models, img2img and more...
+prodia-webui for using Prodia Stable DIffusion API with 50+ models, img2img and more...
 
 # Requirements & Installation
 
